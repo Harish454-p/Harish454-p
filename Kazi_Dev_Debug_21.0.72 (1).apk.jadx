@@ -1,0 +1,583 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "Kazi_Dev_Debug_21.0.72 (1).apk"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "Kazi_Dev_Debug_21.0.72 (1).apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.app.INotificationSideChannel",
+      "subPath": "java",
+      "caret": 289,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.app.RemoteActionCompatParcelizer",
+      "subPath": "java",
+      "caret": 182,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.graphics.drawable.IconCompatParcelizer",
+      "subPath": "java",
+      "caret": 202,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.os.IResultReceiver",
+      "subPath": "java",
+      "caret": 281,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.media.AudioAttributesCompatParcelizer",
+      "subPath": "java",
+      "caret": 184,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.media.AudioAttributesImplApi21Parcelizer",
+      "subPath": "java",
+      "caret": 465,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "androidx.activity.ComponentActivity",
+      "subPath": "java",
+      "caret": 3277,
+      "view": {
+        "x": 0,
+        "y": 377
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.feedback.di.AppModule",
+      "subPath": "java",
+      "caret": 1518,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.feedback.feedback_utils.imageUpolader.MediaType",
+      "subPath": "java",
+      "caret": 5597,
+      "view": {
+        "x": 0,
+        "y": 1127
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.feedback.feedback_utils.ImageUploadUtil",
+      "subPath": "java",
+      "caret": 11185,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.networking.APICallback",
+      "subPath": "java",
+      "caret": 3531,
+      "view": {
+        "x": 0,
+        "y": 754
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "androidx.activity.Api19Impl",
+      "subPath": "java",
+      "caret": 726,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "androidx.activity.ActivityViewModelLazyKt",
+      "subPath": "java",
+      "caret": 2660,
+      "view": {
+        "x": 0,
+        "y": 47
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.KaziApplication",
+      "subPath": "java",
+      "caret": 18608,
+      "view": {
+        "x": 0,
+        "y": 3722
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.amazonaws.async.Callback",
+      "subPath": "java",
+      "caret": 78,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.amazonaws.AbortedException",
+      "subPath": "java",
+      "caret": 68,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.amazonaws.AmazonClientException",
+      "subPath": "java",
+      "caret": 68,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.amazonaws.AmazonServiceException",
+      "subPath": "java",
+      "caret": 68,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.heroboard.dao.LeaderDao",
+      "subPath": "java",
+      "caret": 931,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.heroboard.dao.LeaderDao_Impl",
+      "subPath": "java",
+      "caret": 528,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.agentReferral.dao.AgentReferralDao_Impl",
+      "subPath": "java",
+      "caret": 911,
+      "view": {
+        "x": 0,
+        "y": 1594
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.agentReferral.model.agentreferral.AgentReferralModel",
+      "subPath": "java",
+      "caret": 316,
+      "view": {
+        "x": 288,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.BuildConfig",
+      "subPath": "java",
+      "caret": 94,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.Compat",
+      "subPath": "java",
+      "caret": 490,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.CustomGestureDetector",
+      "subPath": "java",
+      "caret": 336,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.OnGestureListener",
+      "subPath": "java",
+      "caret": 156,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.OnMatrixChangedListener",
+      "subPath": "java",
+      "caret": 124,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.OnOutsidePhotoTapListener",
+      "subPath": "java",
+      "caret": 126,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.OnPhotoTapListener",
+      "subPath": "java",
+      "caret": 126,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.OnScaleChangedListener",
+      "subPath": "java",
+      "caret": 92,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.github.chrisbanes.photoview.OnSingleFlingListener",
+      "subPath": "java",
+      "caret": 126,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.google.android.datatransport.backend.cct.BuildConfig",
+      "subPath": "java",
+      "caret": 107,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.google.android.datatransport.cct.CCTDestination",
+      "subPath": "java",
+      "caret": 386,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.agentReferral.dao.AgentReferralDao",
+      "subPath": "java",
+      "caret": 1082,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.agentReferral.dao.ReferralStatusDao",
+      "subPath": "java",
+      "caret": 1161,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.agentReferral.dao.ReferralStatusDetailDao",
+      "subPath": "java",
+      "caret": 1175,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.media.AudioAttributesImplApi26Parcelizer",
+      "subPath": "java",
+      "caret": 187,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.media.MediaBrowserCompat",
+      "subPath": "java",
+      "caret": 1255,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.media.MediaMetadataCompat",
+      "subPath": "java",
+      "caret": 516,
+      "view": {
+        "x": 0,
+        "y": 2669
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.attendance.activity.MapsActivity",
+      "subPath": "java",
+      "caret": 7245,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.CustomerProfileActivity$onCreate$1",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.DashBoardActivity$$ExternalSyntheticLambda0",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.DashBoardActivity$$ExternalSyntheticLambda10",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.DashBoardActivity$$ExternalSyntheticLambda12",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.DashBoardActivity$$ExternalSyntheticLambda17",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.DashBoardActivity$$ExternalSyntheticLambda20",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.DashBoardActivity$$ExternalSyntheticLambda23",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.EOIDActivity_MembersInjector",
+      "subPath": "java",
+      "caret": 422,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.dashboard.activity.LoginActivity",
+      "subPath": "java",
+      "caret": 8868,
+      "view": {
+        "x": 4,
+        "y": 5708
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.feedback.feedback_utils.AmazonS3Helper",
+      "subPath": "java",
+      "caret": 7004,
+      "view": {
+        "x": 17,
+        "y": 2326
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.greenlightplanet.kazi.networking.NewEmptyParcelable",
+      "subPath": "java",
+      "caret": 1194,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true
+    }
+  ],
+  "cacheDir": "/Users/harish/Library/Caches/io.github.skylot.jadx/projects/Kazi_Dev_Debug_21.0.72 (1)-cb869e9cb153e14453e80c609b162829",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
